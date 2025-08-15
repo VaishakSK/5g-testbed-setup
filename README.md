@@ -1,6 +1,5 @@
 
-````markdown
-# 📡 Private 5G Network Setup – Open5GS + srsRAN + USRP B210
+### 📡 Private 5G Network Setup – Open5GS + srsRAN + USRP B210
 
 A **comprehensive step-by-step guide** to deploy a **private 5G network** using open-source components.  
 This setup integrates **Open5GS** as the 5G Core, **srsRAN Project** as the RAN, and **USRP B210** SDR hardware, along with **programmable SIM cards** for real-device testing.
@@ -251,10 +250,3 @@ Monitor `gnb` logs for connection stability.
 * [Open-Cells UICC Tools](https://open-cells.com/)
 
 ---
-
-```
-
----
-
-If you want, I can also make a **visually enhanced version** with **diagrams and workflow images** in the README so it’s not just text but also visually explains the flow of the private 5G setup. That would make it even more appealing for GitHub.
-```
